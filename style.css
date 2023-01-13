@@ -15,6 +15,8 @@ background-size: cover;
     color: white;
     font-size: 20px;
     border: 1px solid white;
+    
+   
 }
 h2{
     color: white;
@@ -40,4 +42,26 @@ ul{
     color: black;
     font-size: 20px;
     border: 1px solid white;
+    
+}
+.table{
+    color: white;
+}
+.tr{
+    background-color: white;
+    color: black;
+}
+.hello{
+    font-size: 50px;
+    color: white;
+}
+p{
+    color: white; 
+    /* padding: 10px;  */
+    font-style: italic;
+    font-size: 30px;
+}
+.colorchange{
+    color: white;
+    text-decoration: none;
 }
